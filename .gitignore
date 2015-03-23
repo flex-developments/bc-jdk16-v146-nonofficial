@@ -1,5 +1,6 @@
-/lib/CopyLibs/
-/nbproject/
-/lib/nblibraries.properties
-/build.xml
+/build/
 /dist/
+/lib/CopyLibs/
+/lib/nblibraries.properties
+/nbproject/
+/build.xml
