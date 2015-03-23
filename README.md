@@ -3,7 +3,7 @@ Java - Adaptación de librerías de BouncyCastle 16-v146. Fuente original de htt
 Unificación de jars para compilación única.
 
 Dependencias:
- * mail
+ * javax.mail  (https://java.net/projects/javamail/pages/Home)
 
 ## Copyright (C) 2000-2008 - The Legion Of The Bouncy Castle
  * The Legion Of The Bouncy Castle (http://www.bouncycastle.org)
